@@ -1,0 +1,141 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_wod_spawn": {"markup": false,"x": -257.00,"icon": "portal","y": 65.00,"dim": "16x16","z": 156.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {"8b03ef6b-0295-405b-a994-db4e21f44a27": {"markup": false,"x": 23.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 56.00,"label": "regorf vend des Sugar Cane pour 0,25 Egl"}
+,"ef4317b9-de9e-4aba-a602-0553fb593297": {"markup": false,"x": -287.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_CoconutG&#39;s Head pour 10,00 Egl"}
+,"346b5e98-826a-4361-9ed9-f589a577cd13": {"markup": false,"x": -293.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"d3d9060b-68ac-4f34-bfbf-6972f70fa2ab": {"markup": false,"x": -155.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 200.00,"label": "mat_D vend des Dragon Head pour 1.000,00 Egl"}
+,"ccd2511c-35df-485e-b6ac-ee9e7811c79e": {"markup": false,"x": -151.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 200.00,"label": "mat_D vend des Cobblestone pour 0,00 Egl"}
+,"8abaffaf-69b0-4d36-9c5a-d55f109a84cd": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des \u00A7eMHF_Present1&#39;s Head pour 10,00 Egl"}
+,"8e766ec5-c0aa-4603-88d4-90508b3f1726": {"markup": false,"x": -336.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Glass Pane pour 1,50 Egl"}
+,"30b4f763-44dd-4f85-af91-0209e97fd38e": {"markup": false,"x": -191.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 100.00,"label": "Auldeor vend des Tropical Fish pour 5,00 Egl"}
+,"88f2c592-3391-41bc-a25a-8099bd38dfcd": {"markup": false,"x": 43.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 170.00,"label": "regorf vend des Salmon pour 1,00 Egl"}
+,"1ad222d4-ea2e-43c6-845c-bc2adb0ba79c": {"markup": false,"x": 25.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 59.00,"label": "regorf vend des Apple pour 0,75 Egl"}
+,"ea193b70-d036-4dcc-b21a-985a360283e3": {"markup": false,"x": -333.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Saddle pour 10,00 Egl"}
+,"c695cf7e-c95b-4efb-afff-53162fa9cb02": {"markup": false,"x": -287.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"82324fe1-86da-4c42-a71f-c9c0fdbc1fa0": {"markup": false,"x": -186.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 29.00,"label": "regorf vend des Ghast Tear pour 2,00 Egl"}
+,"0c3da460-4a98-4dea-9521-29b125dc45fe": {"markup": false,"x": -191.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 32.00,"label": "floo44 vend des Pufferfish pour 1,00 Egl"}
+,"de7a5684-8300-4741-a22d-76613435cacc": {"markup": false,"x": -153.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 200.00,"label": "mat_D vend des Name Tag pour 500,00 Egl"}
+,"cef57286-47d1-41e6-a244-495545858799": {"markup": false,"x": -287.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des \u00A7eMHF_CoconutB&#39;s Head pour 10,00 Egl"}
+,"b36f5f04-c3bd-40b3-be9a-aa2911881308": {"markup": false,"x": -187.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 30.00,"label": "regorf vend des Slime Ball pour 0,75 Egl"}
+,"373a5514-b07f-45f9-9042-e7a2bc1a49e3": {"markup": false,"x": -293.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des \u00A7eMHF_ArrowUp&#39;s Head pour 10,00 Egl"}
+,"45fe0109-e02a-4ddf-a4e1-06b278e30626": {"markup": false,"x": -287.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des \u00A7eMHF_Exclamation&#39;s Head pour 10,00 Egl"}
+,"cd44dc96-e737-4934-924d-e6b61c1f99e5": {"markup": false,"x": -287.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"aae5095d-3fbe-4f2f-8273-3f04c50298e7": {"markup": false,"x": 42.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 169.00,"label": "regorf vend des Cooked Cod pour 1,00 Egl"}
+,"69685cfc-f28e-4f43-917c-7368856369fc": {"markup": false,"x": 24.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 60.00,"label": "regorf vend des Potato pour 0,50 Egl"}
+,"6de196bf-7949-47de-8d38-093f22f6df89": {"markup": false,"x": -334.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 138.00,"label": "docteur_louis vend des Nether Wart pour 1,00 Egl"}
+,"3e22ae79-952e-468e-baf3-ebcaa03edcc7": {"markup": false,"x": 22.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 58.00,"label": "regorf vend des Beetroot pour 0,50 Egl"}
+,"c3886ba0-90f8-4866-a6b4-ad01ffb713b0": {"markup": false,"x": -334.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Sugar Cane pour 2,00 Egl"}
+,"c9c97b8e-ee43-49b4-9901-090437274888": {"markup": false,"x": 22.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 57.00,"label": "regorf vend des Carrot pour 0,50 Egl"}
+,"781f1274-fb57-4b5a-be9a-da586fea2f36": {"markup": false,"x": -149.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 205.00,"label": "mat_D vend des Melon pour 0,10 Egl"}
+,"0694e6ea-0e5d-4b36-9205-17f550a20233": {"markup": false,"x": 22.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 59.00,"label": "regorf vend des Wheat pour 0,50 Egl"}
+,"b1d1245e-e2f8-411c-a7d1-75b235ed8c2c": {"markup": false,"x": -293.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des \u00A7eMHF_ArrowLeft&#39;s Head pour 10,00 Egl"}
+,"5dee65ce-f021-4193-8f6e-917359f3fa6c": {"markup": false,"x": -155.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 205.00,"label": "mat_D vend des Elytra pour 5.000,00 Egl"}
+,"f75c1a22-f65b-4057-8b39-8563182951ed": {"markup": false,"x": -293.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_ArrowDown&#39;s Head pour 10,00 Egl"}
+,"1618b958-ffc1-489f-b10a-16960e22cdf3": {"markup": false,"x": -287.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"e76f3229-c636-42c8-b186-f24a2d9f044f": {"markup": false,"x": -190.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 27.00,"label": "regorf vend des Magma Cream pour 1,00 Egl"}
+,"85de5762-c61f-4f5f-9942-d178d1d2eb83": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_Pumpkin&#39;s Head pour 10,00 Egl"}
+,"9248dc66-517b-4015-bc5d-1cb8598183f6": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des \u00A7eMHF_Melon&#39;s Head pour 10,00 Egl"}
+,"34bb6bca-789a-4933-96d7-42dfba234fca": {"markup": false,"x": -193.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 31.00,"label": "floo44 vend des Fishing Rod pour 1,50 Egl"}
+,"b2c6e3af-4de8-48c5-bd69-cb4b26d30002": {"markup": false,"x": -336.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 140.00,"label": "docteur_louis vend des Beetroot Seeds pour 0,50 Egl"}
+,"c2fc4d56-75e9-41de-a6cd-11ddfa392234": {"markup": false,"x": -293.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"6e64f891-2ba8-4629-99cd-9d53852de925": {"markup": false,"x": 24.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 56.00,"label": "regorf vend des Pumpkin pour 0,25 Egl"}
+,"2412b00a-bd56-4400-a60e-82044b5f669b": {"markup": false,"x": -287.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_OakLog&#39;s Head pour 10,00 Egl"}
+,"4f01c36c-b9e2-4175-b217-31f6be0da7d1": {"markup": false,"x": 44.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 166.00,"label": "regorf vend des Cod pour 1,00 Egl"}
+,"384b6507-6c67-4684-9498-156e9b91c20c": {"markup": false,"x": -149.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 200.00,"label": "mat_D vend des Sugar Cane pour 0,50 Egl"}
+,"1da72bc2-7447-4779-acee-cb5152164f6d": {"markup": false,"x": -187.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des Cooked Salmon pour 1,75 Egl"}
+,"4cae26a8-0946-420c-954e-68beedf07c65": {"markup": false,"x": -189.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 27.00,"label": "regorf vend des End Stone pour 1,50 Egl"}
+,"a3c5121e-2585-4b5f-a81e-f9e0a507fdd8": {"markup": false,"x": -332.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Coal Block pour 1,00 Egl"}
+,"8c1c2d88-77cd-429b-b33b-0782d8df6cb2": {"markup": false,"x": -287.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des \u00A7eMHF_TNT2&#39;s Head pour 10,00 Egl"}
+,"0019ccc0-44a4-412a-b0cc-10e46c5e0868": {"markup": false,"x": -151.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 205.00,"label": "mat_D vend des Pumpkin pour 1,00 Egl"}
+,"52cd8f8f-6c06-4fab-9886-bf029ecf0a69": {"markup": false,"x": -192.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 34.00,"label": "floo44 vend des Tropical Fish pour 0,50 Egl"}
+,"2d77742b-7028-4bfc-9256-213a0f4162fd": {"markup": false,"x": -187.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 27.00,"label": "regorf vend des Ender Pearl pour 0,75 Egl"}
+,"036b1b64-3029-40cd-8bb8-8d6e26af544f": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des \u00A7eMHF_Present2&#39;s Head pour 10,00 Egl"}
+,"f620c4d7-db26-4913-ac71-ac972b1a742a": {"markup": false,"x": -287.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 97.00,"label": "Auldeor vend des \u00A7eMHF_Chest&#39;s Head pour 10,00 Egl"}
+,"51bddf46-682d-4fbb-a401-e88d559ee11e": {"markup": false,"x": -287.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des \u00A7eMHF_TNT&#39;s Head pour 10,00 Egl"}
+,"62683cba-f01e-49db-8882-3e3ffce33528": {"markup": false,"x": 42.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 168.00,"label": "regorf vend des Tropical Fish pour 1,00 Egl"}
+,"b10301dc-3383-4495-bcb9-da64828c2121": {"markup": false,"x": -153.00,"icon": "pin","y": 70.00,"dim": "16x16","z": 205.00,"label": "mat_D vend des Nether Wart pour 5,00 Egl"}
+,"622847a6-b0f1-4bcb-8cd4-3900a88cfc8d": {"markup": false,"x": -334.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 140.00,"label": "docteur_louis vend des Carrot pour 0,89 Egl"}
+,"d7448995-0d43-424f-aea0-a4096f5eb71e": {"markup": false,"x": -290.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_Cake&#39;s Head pour 10,00 Egl"}
+,"8c5eb753-7b47-4b9c-bb8d-413cc5e08993": {"markup": false,"x": 23.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 60.00,"label": "regorf vend des Melon Slice pour 0,50 Egl"}
+,"1a6a5987-5455-42eb-b90e-465cae32e025": {"markup": false,"x": -333.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 140.00,"label": "docteur_louis vend des Egg pour 0,10 Egl"}
+,"b7e7bcea-18ea-472a-a604-4ee50dcfa8d4": {"markup": false,"x": 25.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 57.00,"label": "regorf vend des Egg pour 0,25 Egl"}
+,"1e0f63f7-e09d-4e76-8ca8-667a09e47ec0": {"markup": false,"x": -333.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Wheat Seeds pour 0,05 Egl"}
+,"860db611-378c-4010-a797-aa25ba21cc3b": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des \u00A7eMHF_Present1&#39;s Head pour 10,00 Egl"}
+,"150c0750-f3c0-4363-8b1a-1de30982663c": {"markup": false,"x": -335.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 140.00,"label": "docteur_louis vend des Melon Seeds pour 0,50 Egl"}
+,"826478bb-e7eb-4ef4-a214-1b547c4d37fa": {"markup": false,"x": -190.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 99.00,"label": "Auldeor vend des Pufferfish pour 3,00 Egl"}
+,"16bbd1ea-5e6f-4050-880b-a1c104eab987": {"markup": false,"x": -287.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des \u00A7eMHF_Question&#39;s Head pour 10,00 Egl"}
+,"322bc961-f254-490f-ae45-42091c63e261": {"markup": false,"x": -334.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Blaze Rod pour 2,00 Egl"}
+,"866a1103-acb8-496e-86f0-313eed852acf": {"markup": false,"x": -287.00,"icon": "pin","y": 73.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des Player Head pour 10,00 Egl"}
+,"4538bd0b-567b-423b-adc4-1a5bcf5f6e09": {"markup": false,"x": 44.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 170.00,"label": "regorf vend des Nautilus Shell pour 2,00 Egl"}
+,"2a4f8982-e108-4ebd-979a-8db5a97f3c7e": {"markup": false,"x": -289.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_Apple&#39;s Head pour 10,00 Egl"}
+,"4bbe45b4-5dd9-4ea0-b179-4fae77aee7db": {"markup": false,"x": -293.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 95.00,"label": "Auldeor vend des \u00A7eMHF_Present2&#39;s Head pour 10,00 Egl"}
+,"8be2b2ec-b14d-46a8-a736-8ff1729abb97": {"markup": false,"x": 43.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 166.00,"label": "regorf vend des Pufferfish pour 1,00 Egl"}
+,"334c8a1c-7a47-4e60-85df-b3ec912e72d9": {"markup": false,"x": -192.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 31.00,"label": "floo44 vend des Salmon pour 1,00 Egl"}
+,"b5cc6369-50c3-4218-b719-606e7d22d240": {"markup": false,"x": 42.00,"icon": "pin","y": 63.00,"dim": "16x16","z": 167.00,"label": "regorf vend des Cooked Salmon pour 1,00 Egl"}
+,"ba16e279-e983-4b29-8ba2-1dd1b553d317": {"markup": false,"x": -335.00,"icon": "pin","y": 58.00,"dim": "16x16","z": 139.00,"label": "docteur_louis vend des Potato pour 1,00 Egl"}
+,"4a9db73f-040b-4011-9f0c-92ee76f945a8": {"markup": false,"x": -291.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des \u00A7eMHF_Cactus&#39;s Head pour 10,00 Egl"}
+,"3ce316c1-8c99-44e5-b0e5-777f9e80fca8": {"markup": false,"x": -186.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 98.00,"label": "Auldeor vend des Cod pour 1,50 Egl"}
+,"0033ac8b-5972-4d46-8ea5-197cd03ec126": {"markup": false,"x": -293.00,"icon": "pin","y": 69.00,"dim": "16x16","z": 94.00,"label": "Auldeor vend des \u00A7eMHF_ArrowRight&#39;s Head pour 10,00 Egl"}
+,"e4d01cb2-c08f-418f-b40c-cc71d98ebdf6": {"markup": false,"x": -189.00,"icon": "pin","y": 65.00,"dim": "16x16","z": 30.00,"label": "regorf vend des Blaze Rod pour 1,50 Egl"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_world_of_design": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-5256.00,4744.00,4744.00,-5256.00]
+,"weight": 3,"z": [-4845.00,-4845.00,5155.00,5155.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_world_of_design": {"markup": false,"x": -256.00,"icon": "world","y": 64.00,"dim": "16x16","z": 155.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {"Aube_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-80.00,-80.00,-96.00,-96.00,-112.00,-112.00,-128.00,-128.00,32.00,32.00,16.00,16.00]
+,"weight": 2,"z": [144.00,112.00,112.00,128.00,128.00,144.00,144.00,416.00,416.00,320.00,320.00,144.00]
+,"ybottom": 64.00,"label": "Aube","opacity": 0.50,"fillopacity": 0.20}
+,"Mistral_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [1712.00,1808.00,1808.00,1824.00,1824.00,1840.00,1840.00,1872.00,1872.00,1888.00,1888.00,1856.00,1856.00,1824.00,1824.00,1760.00,1760.00,1664.00,1664.00,1632.00,1632.00,1616.00,1616.00,1680.00,1680.00,1696.00,1696.00,1712.00]
+,"weight": 2,"z": [-928.00,-928.00,-944.00,-944.00,-976.00,-976.00,-992.00,-992.00,-1008.00,-1008.00,-1040.00,-1040.00,-1072.00,-1072.00,-1104.00,-1104.00,-1120.00,-1120.00,-1104.00,-1104.00,-1040.00,-1040.00,-1008.00,-1008.00,-992.00,-992.00,-976.00,-976.00]
+,"ybottom": 64.00,"label": "Mistral","opacity": 0.50,"fillopacity": 0.20}
+,"Nouvelle-Aube_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-64.00,-64.00,-80.00,-80.00,-112.00,-112.00,-64.00,-64.00,-32.00,-32.00,16.00,16.00,160.00,160.00,208.00,208.00,240.00,240.00,224.00,224.00,208.00,208.00,240.00,240.00,224.00,224.00,208.00,208.00,224.00,224.00,208.00,208.00,80.00,80.00,48.00,48.00,16.00,16.00]
+,"weight": 2,"z": [-96.00,-80.00,-80.00,-32.00,-32.00,16.00,16.00,32.00,32.00,144.00,144.00,192.00,192.00,208.00,208.00,176.00,176.00,160.00,160.00,128.00,128.00,112.00,112.00,80.00,80.00,96.00,96.00,48.00,48.00,32.00,32.00,-160.00,-160.00,-96.00,-96.00,-112.00,-112.00,-96.00]
+,"ybottom": 64.00,"label": "Nouvelle-Aube","opacity": 0.50,"fillopacity": 0.20}
+,"Celestia_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-144.00,-80.00,-80.00,32.00,32.00,64.00,64.00,80.00,80.00,112.00,112.00,128.00,128.00,112.00,112.00,96.00,96.00,112.00,112.00,96.00,96.00,80.00,80.00,64.00,64.00,80.00,80.00,96.00,96.00,112.00,112.00,80.00,80.00,16.00,16.00,0.00,0.00,-32.00,-32.00,-80.00,-80.00,-96.00,-96.00,-128.00,-128.00,-144.00,-144.00,-176.00,-176.00,-160.00,-160.00,-144.00,-144.00,-128.00,-128.00,-112.00,-112.00,-96.00,-96.00,-112.00,-112.00,-160.00,-160.00,-176.00,-176.00,-192.00,-192.00,-224.00,-224.00,-240.00,-240.00,-208.00,-208.00,-160.00,-160.00,-144.00]
+,"weight": 2,"z": [1216.00,1216.00,1232.00,1232.00,1200.00,1200.00,1168.00,1168.00,1152.00,1152.00,1136.00,1136.00,1120.00,1120.00,1088.00,1088.00,1056.00,1056.00,1024.00,1024.00,1008.00,1008.00,992.00,992.00,976.00,976.00,944.00,944.00,912.00,912.00,928.00,928.00,912.00,912.00,896.00,896.00,928.00,928.00,912.00,912.00,896.00,896.00,912.00,912.00,928.00,928.00,976.00,976.00,1008.00,1008.00,1024.00,1024.00,1072.00,1072.00,1088.00,1088.00,1104.00,1104.00,1120.00,1120.00,1136.00,1136.00,1152.00,1152.00,1168.00,1168.00,1136.00,1136.00,1120.00,1120.00,1152.00,1152.00,1184.00,1184.00,1200.00,1200.00]
+,"ybottom": 64.00,"label": "Celestia","opacity": 0.50,"fillopacity": 0.20}
+,"Forestia_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-512.00,-416.00,-416.00,-336.00,-336.00,-320.00,-320.00,-304.00,-304.00,-288.00,-288.00,-320.00,-320.00,-400.00,-400.00,-432.00,-432.00,-448.00,-448.00,-496.00,-496.00,-528.00,-528.00,-544.00,-544.00,-576.00,-576.00,-560.00,-560.00,-528.00,-528.00,-512.00]
+,"weight": 2,"z": [-128.00,-128.00,-96.00,-96.00,-160.00,-160.00,-224.00,-224.00,-256.00,-256.00,-304.00,-304.00,-320.00,-320.00,-336.00,-336.00,-352.00,-352.00,-384.00,-384.00,-368.00,-368.00,-320.00,-320.00,-256.00,-256.00,-224.00,-224.00,-176.00,-176.00,-160.00,-160.00]
+,"ybottom": 64.00,"label": "Forestia","opacity": 0.50,"fillopacity": 0.20}
+,"Monle_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-304.00,-304.00,-352.00,-352.00,-320.00,-320.00,-176.00,-176.00,-128.00,-128.00]
+,"weight": 2,"z": [256.00,336.00,336.00,432.00,432.00,448.00,448.00,416.00,416.00,256.00]
+,"ybottom": 64.00,"label": "Monle","opacity": 0.50,"fillopacity": 0.20}
+,"Crepuscule_0": {"fillcolor": "#FFFFFF","ytop": 64.00,"color": "#FFFFFF","markup": false,"x": [-176.00,-176.00,-336.00,-336.00,-288.00,-288.00,-176.00,-176.00,-112.00,-112.00,96.00,96.00,208.00,208.00,240.00,240.00,224.00,224.00,96.00,96.00,32.00,32.00]
+,"weight": 2,"z": [416.00,448.00,448.00,464.00,464.00,544.00,544.00,608.00,608.00,656.00,656.00,624.00,624.00,656.00,656.00,576.00,576.00,288.00,288.00,336.00,336.00,416.00]
+,"ybottom": 64.00,"label": "Crepuscule","opacity": 0.50,"fillopacity": 0.20}
+}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"hotel_de_ville_fivhuit": {"markup": false,"x": -199.00,"icon": "sign","y": 67.00,"dim": "16x16","z": 126.00,"label": "Hotel de Ville de Fivhuit"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1663239625753}

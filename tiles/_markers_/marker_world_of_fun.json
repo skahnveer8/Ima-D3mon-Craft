@@ -1,0 +1,46 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {"portail_wof_end": {"markup": false,"x": -279.00,"icon": "portal","y": 90.00,"dim": "16x16","z": 170.00,"label": "Portail vers END (Prenez un Minecart)"}
+,"portail_wof_spawn": {"markup": false,"x": -722.00,"icon": "portal","y": 66.00,"dim": "16x16","z": 557.00,"label": "Portail vers Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {"58bea0ec-9461-440d-ace4-827c5f4aaced": {"markup": false,"x": -266.00,"icon": "pin","y": 64.00,"dim": "16x16","z": 145.00,"label": "Baroriam vend des Minecart pour 15,00 Egl"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": true,"circles": {}
+,"areas": {"_worldborder_world_of_fun": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-2721.00,1279.00,1279.00,-2721.00]
+,"weight": 3,"z": [-1444.00,-1444.00,2556.00,2556.00]
+,"ybottom": 64.00,"label": "Bordure du monde","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Marqueurs","markers": {"_spawn_world_of_fun": {"markup": false,"x": -721.00,"icon": "world","y": 65.00,"dim": "16x16","z": 556.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"infos": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Infos","markers": {"ile_des_neiges": {"markup": false,"x": 4.00,"icon": "sign","y": 228.00,"dim": "16x16","z": -10.00,"label": "Ile des Neiges"}
+,"fort_boyard": {"markup": false,"x": -2545.00,"icon": "sign","y": 73.00,"dim": "16x16","z": -602.00,"label": "Fort Boyard"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1663239625752}
