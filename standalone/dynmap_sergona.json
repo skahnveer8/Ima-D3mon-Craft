@@ -1,7 +1,16 @@
-{"currentcount": 0,"hasStorm": true,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": 338.00,"y": 98.00,"z": 212.00,"id": "_spawn_sergona","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239614185}
-,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2700.00,2700.00,2700.00,-2700.00]
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2700.00,2700.00,2700.00,-2700.00]
 ,"z": [-2700.00,-2700.00,2700.00,2700.00]
-,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_sergona","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663239614185}
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_sergona","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957820514}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [338.00,338.00,339.00,339.00]
+,"z": [212.00,213.00,213.00,212.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "sergona_bienvenue","label": "Bienvenue","set": "worldguard.markerset","desc": "<div><div>Bienvenue<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836309}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "sergona_general","label": "General","set": "worldguard.markerset","desc": "<div><div>General<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836309}
+,{"msg": "markerupdated","x": 338.00,"y": 98.00,"z": 212.00,"id": "_spawn_sergona","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849059}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}

@@ -1,7 +1,16 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": 0.00,"y": 4.00,"z": 0.00,"id": "_spawn_plaines","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239621442}
-,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2500.00,2500.00,2500.00,-2500.00]
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2500.00,2500.00,2500.00,-2500.00]
 ,"z": [-2500.00,-2500.00,2500.00,2500.00]
-,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_plaines","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663239621442}
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_plaines","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957828023}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [157.00,157.00,228.00,228.00]
+,"z": [119.00,262.00,262.00,119.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "plaines_fort_boyard","label": "Fort_boyard","set": "worldguard.markerset","desc": "<div><div>Fort_boyard<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837109}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "plaines_general","label": "General","set": "worldguard.markerset","desc": "<div><div>General<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837109}
+,{"msg": "markerupdated","x": 0.00,"y": 4.00,"z": 0.00,"id": "_spawn_plaines","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849059}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}

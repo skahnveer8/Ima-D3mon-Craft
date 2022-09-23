@@ -1,4 +1,16 @@
-{"currentcount": 0,"hasStorm": true,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": 0.00,"y": 72.00,"z": 0.00,"id": "_spawn_equestria","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239615277}
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "markerupdated","x": 0.00,"y": 72.00,"z": 0.00,"id": "_spawn_equestria","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957821386}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-1736.00,-1736.00,1475.00,1475.00]
+,"z": [-4940.00,1052.00,1052.00,-4940.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "equestria_zone_joueurs","label": "Zone_joueurs","set": "worldguard.markerset","desc": "<div><div>Zone_joueurs<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836708}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "equestria_general","label": "General","set": "worldguard.markerset","desc": "<div><div>General<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836708}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [423.00,423.00,424.00,424.00]
+,"z": [-1026.00,-1025.00,-1025.00,-1026.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "equestria_message_git","label": "Message_git","set": "worldguard.markerset","desc": "<div><div>Message_git<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836708}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}

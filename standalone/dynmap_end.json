@@ -1,3 +1,28 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": []
-,"timestamp": 0}
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-5000.00,5000.00,5000.00,-5000.00]
+,"z": [-5000.00,-5000.00,5000.00,5000.00]
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_end","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957828219}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [0.00,0.00,1.00,1.00]
+,"z": [3.00,4.00,4.00,3.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_respawn_dragon_2","label": "Respawn_dragon_2","set": "worldguard.markerset","desc": "<div><div>Respawn_dragon_2<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837158}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-7.00,-7.00,8.00,8.00]
+,"z": [-7.00,8.00,8.00,-7.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_portail","label": "Portail","set": "worldguard.markerset","desc": "<div><div>Portail<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837158}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [3.00,3.00,4.00,4.00]
+,"z": [0.00,1.00,1.00,0.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_respawn_dragon_1","label": "Respawn_dragon_1","set": "worldguard.markerset","desc": "<div><div>Respawn_dragon_1<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837158}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [30.00,30.00,35.00,35.00]
+,"z": [30.00,35.00,35.00,30.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_arrivee_warp","label": "Arrivee_warp","set": "worldguard.markerset","desc": "<div><div>Arrivee_warp<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837158}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [0.00,0.00,1.00,1.00]
+,"z": [-3.00,-2.00,-2.00,-3.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_respawn_dragon_4","label": "Respawn_dragon_4","set": "worldguard.markerset","desc": "<div><div>Respawn_dragon_4<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837159}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-3.00,-3.00,-2.00,-2.00]
+,"z": [0.00,1.00,1.00,0.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "end_respawn_dragon_3","label": "Respawn_dragon_3","set": "worldguard.markerset","desc": "<div><div>Respawn_dragon_3<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957837159}
+,{"msg": "markerupdated","x": 0.00,"y": 100.00,"z": 0.00,"id": "_spawn_end","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849058}
+]
+,"timestamp": 1663957849826}

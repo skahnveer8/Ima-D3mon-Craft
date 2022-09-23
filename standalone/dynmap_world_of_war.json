@@ -1,7 +1,37 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": -218.00,"y": 193.00,"z": 148.00,"id": "_spawn_world_of_war","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239614221}
-,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2218.00,1782.00,1782.00,-2218.00]
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2218.00,1782.00,1782.00,-2218.00]
 ,"z": [-1852.00,-1852.00,2148.00,2148.00]
-,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_world_of_war","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663239614222}
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_world_of_war","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957820620}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [1017.00,1017.00,1329.00,1329.00]
+,"z": [-619.00,-451.00,-451.00,-619.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_nouvelle_aurore","label": "Nouvelle_aurore","set": "worldguard.markerset","desc": "<div><div>Nouvelle_aurore<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836359}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [588.00,588.00,817.00,817.00]
+,"z": [563.00,737.00,737.00,563.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_fort","label": "Fort","set": "worldguard.markerset","desc": "<div><div>Fort<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836359}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-466.00,-466.00,35.00,35.00]
+,"z": [-102.00,399.00,399.00,-102.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_centre","label": "Centre","set": "worldguard.markerset","desc": "<div><div>Centre<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [103.00,103.00,201.00,201.00]
+,"z": [-921.00,-823.00,-823.00,-921.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_monument_1","label": "Monument_1","set": "worldguard.markerset","desc": "<div><div>Monument_1<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-789.00,-789.00,-620.00,-620.00]
+,"z": [783.00,961.00,961.00,783.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_gravyti","label": "Gravyti","set": "worldguard.markerset","desc": "<div><div>Gravyti<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-721.00,-721.00,-649.00,-649.00]
+,"z": [858.00,950.00,950.00,858.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_village_2","label": "Village_2","set": "worldguard.markerset","desc": "<div><div>Village_2<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-491.00,-491.00,-368.00,-368.00]
+,"z": [532.00,624.00,624.00,532.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_village_1","label": "Village_1","set": "worldguard.markerset","desc": "<div><div>Village_1<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-560.00,-560.00,-463.00,-463.00]
+,"z": [465.00,607.00,607.00,465.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_chateau_regorf","label": "Chateau_regorf","set": "worldguard.markerset","desc": "<div><div>Chateau_regorf<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [279.00,279.00,377.00,377.00]
+,"z": [-1417.00,-1319.00,-1319.00,-1417.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "world_of_war_monument_2","label": "Monument_2","set": "worldguard.markerset","desc": "<div><div>Monument_2<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836360}
+,{"msg": "markerupdated","x": -218.00,"y": 193.00,"z": 148.00,"id": "_spawn_world_of_war","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849058}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}

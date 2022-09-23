@@ -1,7 +1,13 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": 0.00,"y": 4.00,"z": 0.00,"id": "_spawn_versailles","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239614306}
-,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2000.00,2000.00,2000.00,-2000.00]
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2000.00,2000.00,2000.00,-2000.00]
 ,"z": [-2000.00,-2000.00,2000.00,2000.00]
-,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_versailles","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663239614306}
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_versailles","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957820786}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "versailles_general","label": "General","set": "worldguard.markerset","desc": "<div><div>General<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957836410}
+,{"msg": "markerupdated","x": 0.00,"y": 4.00,"z": 0.00,"id": "_spawn_versailles","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849059}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}

@@ -1,7 +1,46 @@
 {"currentcount": 0,"hasStorm": false,"players": []
-,"isThundering": false,"confighash": 1087278003,"servertime": 11,"updates": [{"msg": "markerupdated","x": 0.00,"y": 101.00,"z": 0.00,"id": "_spawn_archives","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663239614071}
-,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-3000.00,3000.00,3000.00,-3000.00]
+,"isThundering": false,"confighash": 1805484662,"servertime": 28,"updates": [{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-3000.00,3000.00,3000.00,-3000.00]
 ,"z": [-3000.00,-3000.00,3000.00,3000.00]
-,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_archives","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663239614071}
+,"weight": 3,"opacity": 0.80,"color": "#FF0000","fillopacity": 0.00,"fillcolor": "#000000","id": "_worldborder_archives","label": "Bordure du monde","set": "markers","desc": "","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957820235}
+,{"msg": "setupdated","id": "simpletowns.markerset","label": "Villes","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957830700}
+,{"msg": "setupdated","id": "showcasestandalone.markerset","label": "Commerces","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831765}
+,{"msg": "setupdated","id": "worldguard.markerset","label": "R\u00E9gions","layerprio": 0,"minzoom": -1,"maxzoom": -1,"showlabels": null,"ctype": "markers","type": "component","timestamp": 1663957831911}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-1360.00,-1360.00,-160.00,-160.00]
+,"z": [160.00,1456.00,1456.00,160.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wod_2013_05_19","label": "Wod_2013_05_19","set": "worldguard.markerset","desc": "<div><div>Wod_2013_05_19<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835859}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [1680.00,1680.00,2880.00,2880.00]
+,"z": [160.00,1456.00,1456.00,160.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wod_2018_09_01","label": "Wod_2018_09_01","set": "worldguard.markerset","desc": "<div><div>Wod_2018_09_01<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835859}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-1104.00,-1104.00,-160.00,-160.00]
+,"z": [-2304.00,-1712.00,-1712.00,-2304.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_won_2020_07_22","label": "Won_2020_07_22","set": "worldguard.markerset","desc": "<div><div>Won_2020_07_22<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835859}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [160.00,160.00,464.00,464.00]
+,"z": [-2048.00,-1712.00,-1712.00,-2048.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wow_2015_02_22_joueurs","label": "Wow_2015_02_22_joueurs","set": "worldguard.markerset","desc": "<div><div>Wow_2015_02_22_joueurs<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-1520.00,-1520.00,-160.00,-160.00]
+,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_woe_2012_12_18","label": "Woe_2012_12_18","set": "worldguard.markerset","desc": "<div><div>Woe_2012_12_18<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [160.00,160.00,1520.00,1520.00]
+,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_woe_2015_01_04","label": "Woe_2015_01_04","set": "worldguard.markerset","desc": "<div><div>Woe_2015_01_04<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-20000.00,-20000.00,20001.00,20001.00]
+,"z": [-20000.00,20001.00,20001.00,-20000.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_general","label": "General","set": "worldguard.markerset","desc": "<div><div>General<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-2880.00,-2880.00,-1680.00,-1680.00]
+,"z": [160.00,1456.00,1456.00,160.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wod_2012_06_10","label": "Wod_2012_06_10","set": "worldguard.markerset","desc": "<div><div>Wod_2012_06_10<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [160.00,160.00,1360.00,1360.00]
+,"z": [160.00,1456.00,1456.00,160.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wod_2015_01_04","label": "Wod_2015_01_04","set": "worldguard.markerset","desc": "<div><div>Wod_2015_01_04<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [-3008.00,-3008.00,-1840.00,-1840.00]
+,"z": [-1392.00,-160.00,-160.00,-1392.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_woe_2012_03_04","label": "Woe_2012_03_04","set": "worldguard.markerset","desc": "<div><div>Woe_2012_03_04<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [624.00,624.00,1264.00,1264.00]
+,"z": [-2192.00,-1712.00,-1712.00,-2192.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_wow_2015_02_22","label": "Wow_2015_02_22","set": "worldguard.markerset","desc": "<div><div>Wow_2015_02_22<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835860}
+,{"msg": "areaupdated","ytop": 64.00,"ybottom": 64.00,"x": [0.00,0.00,1.00,1.00]
+,"z": [0.00,1.00,1.00,0.00]
+,"weight": 2,"opacity": 0.50,"color": "#FF0000","fillopacity": 0.20,"fillcolor": "#FF0000","id": "archives_message_git","label": "Message_git","set": "worldguard.markerset","desc": "<div><div>Message_git<\/div><\/div>","minzoom": -1,"maxzoom": -1,"markup": true,"ctype": "markers","type": "component","timestamp": 1663957835861}
+,{"msg": "markerupdated","x": 0.00,"y": 101.00,"z": 0.00,"id": "_spawn_archives","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": "","dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1663957849059}
 ]
-,"timestamp": 0}
+,"timestamp": 1663957849826}
